@@ -1,0 +1,17 @@
+﻿  vector.cpp
+C:\Users\Wiktoria\source\repos\new_inventory\date.h(22,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Wiktoria\source\repos\new_inventory\date.h(29,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Wiktoria\source\repos\new_inventory\date.h(35,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Wiktoria\source\repos\new_inventory\object.h(21,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Wiktoria\source\repos\new_inventory\complex_object.h(18,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wiktoria\source\repos\new_inventory\vector.h(19,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Wiktoria\source\repos\new_inventory\vector.cpp(87,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Wiktoria\source\repos\new_inventory\vector.cpp(124,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Wiktoria\source\repos\new_inventory\vector.cpp(234,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Wiktoria\source\repos\new_inventory\vector.cpp(255,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Wiktoria\source\repos\new_inventory\vector.cpp(259,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Wiktoria\source\repos\new_inventory\vector.cpp(281,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Wiktoria\source\repos\new_inventory\vector.cpp(300,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Wiktoria\source\repos\new_inventory\vector.cpp(343,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Wiktoria\source\repos\new_inventory\vector.cpp(353,23): warning C4018: '<': signed/unsigned mismatch
+  new_inventory.vcxproj -> C:\Users\Wiktoria\source\repos\new_inventory\Debug\new_inventory.exe
