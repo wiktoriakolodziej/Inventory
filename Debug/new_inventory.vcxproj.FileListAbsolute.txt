@@ -1,2 +1,0 @@
-C:\Users\Wiktoria\source\repos\new_inventory\Debug\new_inventory.exe
-C:\Users\Wiktoria\source\repos\new_inventory\Debug\new_inventory.pdb
